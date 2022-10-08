@@ -72,7 +72,7 @@ which means values from 2 to 6 (but not including 6):
 -----------------------------------------------'''
 
 for x in range(1, 6):
-    print(x, "Harsh")
+    print(x, "prince")
 
 '''-----------------------------------------------
 The range() function defaults to increment the sequence by 1,
