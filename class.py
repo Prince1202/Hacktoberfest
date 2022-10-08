@@ -110,7 +110,7 @@ computer2.Configuration()
 
 # ex.1
 class laptop:
-    def __init__(self):  # It runs how many times object called
+    def __init__(self2):  # It runs how many times object called
         print('THIS IS __init__')
 
     def Configuration(self):
