@@ -39,7 +39,7 @@ print("-----------------------------------------------")
 # Program
 
 phone_balance = int(input("Enter Phone balance: "))
-bank_balance = 500
+bank_balance = 600
 
 print("Current Phone balance is:", phone_balance)
 print("Current Bank balance is:", bank_balance)
